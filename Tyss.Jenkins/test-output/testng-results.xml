@@ -2,16 +2,19 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-08-18T12:10:47 IST" name="Default suite" finished-at="2023-08-18T12:10:47 IST" duration-ms="42">
+  <suite started-at="2023-08-18T12:36:25 IST" name="Suite" finished-at="2023-08-18T12:36:25 IST" duration-ms="44">
     <groups>
+      <group name="Regression">
+        <method signature="CreateUser.createUser()[pri:0, instance:JenkinsPractice.CreateUser@1bd4fdd]" name="createUser" class="JenkinsPractice.CreateUser"/>
+      </group> <!-- Regression -->
     </groups>
-    <test started-at="2023-08-18T12:10:47 IST" name="Default test" finished-at="2023-08-18T12:10:47 IST" duration-ms="42">
+    <test started-at="2023-08-18T12:36:25 IST" name="Test" finished-at="2023-08-18T12:36:25 IST" duration-ms="44">
       <class name="JenkinsPractice.CreateUser">
-        <test-method signature="createUser()[pri:0, instance:JenkinsPractice.CreateUser@59662a0b]" started-at="2023-08-18T12:10:47 IST" name="createUser" finished-at="2023-08-18T12:10:47 IST" duration-ms="12" status="PASS">
+        <test-method signature="createUser()[pri:0, instance:JenkinsPractice.CreateUser@1bd4fdd]" started-at="2023-08-18T12:36:25 IST" name="createUser" finished-at="2023-08-18T12:36:25 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createUser -->
       </class> <!-- JenkinsPractice.CreateUser -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
