@@ -8,12 +8,9 @@ public class CreateUser {
 	public void createUser()
 	{
 		System.out.println("Regression User Created");
+		System.out.println("Doctor Created");
+		System.out.print("Doctor Created");
 		
-		System.out.println("Changed User Created");
-		
-		System.out.println("Changed User Deleted");
-	
-		System.out.println("Changed User Modified");
 	
 	}
 }
