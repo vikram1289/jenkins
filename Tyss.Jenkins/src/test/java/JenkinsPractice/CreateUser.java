@@ -4,9 +4,9 @@ import org.testng.annotations.Test;
 
 public class CreateUser {
 
-	@Test
+	@Test(groups = "Regression")
 	public void createUser()
 	{
-		System.out.println("User Created");
+		System.out.println("Regression User Created");
 	}
 }
