@@ -7,6 +7,6 @@ public class DeleteUser {
 	@Test
 	public void deleteUser()
 	{
-		System.out.println("User Delited");
+		System.out.println("User Delitedd");
 	}
 }
