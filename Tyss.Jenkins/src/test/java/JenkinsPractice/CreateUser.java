@@ -8,6 +8,7 @@ public class CreateUser {
 	public void createUser()
 	{
 		System.out.println("Regression User Created");
+		System.out.println("Doctor Created");
 		
 	
 	}
