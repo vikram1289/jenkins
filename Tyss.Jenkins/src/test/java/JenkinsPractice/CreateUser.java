@@ -14,6 +14,8 @@ public class CreateUser {
 		System.out.println("Changed User Deleted");
 	
 		System.out.println("Changed User Modified");
+		
+		System.out.println("Changed new User");
 	
 	}
 }
