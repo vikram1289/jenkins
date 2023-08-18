@@ -10,6 +10,8 @@ public class CreateUser {
 		System.out.println("Regression User Created");
 		
 		System.out.println("Changed User Created");
+		
+		System.out.println("Changed User Deleted");
 	
 	
 	
