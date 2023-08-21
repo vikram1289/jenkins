@@ -4,9 +4,9 @@ import org.testng.annotations.Test;
 
 public class DeleteUser {
 
-	@Test
+	@Test(groups = "smoke")
 	public void deleteUser()
 	{
-		System.out.println("User Delitedd");
+		System.out.println("User Delited");
 	}
 }
